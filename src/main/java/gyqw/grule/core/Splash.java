@@ -1,6 +1,7 @@
 package gyqw.grule.core;
 
 public class Splash {
+
     public void print() {
         String sb = "\n" +
                 "_____  __________ _____  ________ ________________ " +

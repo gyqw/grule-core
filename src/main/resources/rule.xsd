@@ -89,6 +89,7 @@
 	</sequence>
 	<attribute name="row-number" type="int"></attribute>
 </complexType>
+
 <complexType name="condition-row">
 	<attribute name="row-number" type="int"></attribute>
 </complexType>
